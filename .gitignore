@@ -1,0 +1,40 @@
+# 🔹 Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.*
+*.py,cover
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# 🔹 VS Code
+.vscode/
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 Logs
+*.log
+
+# 🔹 Temporary files
+*.tmp
+*.temp
+
+# 🔹 C++ build files
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+
+# 🔹 Code Runner (VS Code)
+tempCodeRunnerFile.*
+
+# 🔹 Misc
+*.swp
