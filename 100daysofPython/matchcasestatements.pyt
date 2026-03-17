@@ -50,4 +50,3 @@ match point:
 
 # a, b = ... → assigns 22 to a and -2 to b
 
-# a,b = map(int, input("Enter two numbers: ").split())
